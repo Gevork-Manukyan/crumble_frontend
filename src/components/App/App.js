@@ -19,7 +19,7 @@ import {
   Footer,
   Timer,
 } from "components";
-import TimerAlert from "components/pages/TimerAlert/TimerAlert";
+import TimerAlert from "components/Pages/TimerAlert/TimerAlert";
 
 
 

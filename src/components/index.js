@@ -1,6 +1,6 @@
 export { default as Navbar } from "./Navbar/Navbar";
-export { default as Login } from "./pages/Login/Login";
-export { default as Register } from "./pages/Register/Register";
+export { default as Login } from "./Pages/Login/Login";
+export { default as Register } from "./Pages/Register/Register";
 
 export { default as MainTab } from "./MainTab/MainTab";
 export { default as SubTab } from "./SubTab/SubTab";
@@ -34,17 +34,17 @@ export { default as Note } from "./Note/Note";
 export { default as Breadcrumbs } from "./Breadcrumbs/Breadcrumbs"
 export { default as Event } from "./Event/Event";
 
-export { default as Timer } from "./pages/Timer/Timer";
-export { default as TimerAlert } from "./pages/TimerAlert/TimerAlert"
-export { default as Home } from "./pages/Home/Home";
-export { default as About } from "./pages/About/About";
-export { default as Profile } from "./pages/Profile/Profile";
-export { default as LandingPage } from "./pages/LandingPage/LandingPage";
-export { default as TabPage } from "./pages/TabPage/TabPage";
+export { default as Timer } from "./Pages/Timer/Timer";
+export { default as TimerAlert } from "./Pages/TimerAlert/TimerAlert"
+export { default as Home } from "./Pages/Home/Home";
+export { default as About } from "./Pages/About/About";
+export { default as Profile } from "./Pages/Profile/Profile";
+export { default as LandingPage } from "./Pages/LandingPage/LandingPage";
+export { default as TabPage } from "./Pages/TabPage/TabPage";
 export { default as SideBar } from "./SideBar/SideBar";
 export { default as Footer } from "./Footer/Footer";
 
-export { default as PageHeader } from "./pages/PageHeader/PageHeader";
+export { default as PageHeader } from "./Pages/PageHeader/PageHeader";
 
 
 export { default as gevork } from "./pages/About/images/gevork-profile.jpg";
